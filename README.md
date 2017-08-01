@@ -26,6 +26,7 @@
 - debugging and dev-tools
 - NodeJS tooling (webpack, grunt/gulp, eslint, babel)
 - modules types
+- [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
 # FP JS
 - https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b?source=userActivityShare-ec8f5955444-1501602034
