@@ -28,7 +28,13 @@
 - modules types
 - [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
-# FP JS
+## React
+
+## Webpack + Babel
+
+## Redux
+
+## FP JS
 - https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b?source=userActivityShare-ec8f5955444-1501602034
 - Eric Elliotthttps://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
 - recurency
@@ -46,7 +52,11 @@
 - partial application
 - currying
 
-# Some links I recommend:
+## Books
+- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [JS Way](https://github.com/bpesquet/thejsway)
+
+## Some other links I recommend:
 - https://benmccormick.org/2017/07/19/ten-things-javascript/
 - https://codeburst.io/understand-closures-in-javascript-d07852fa51e7
 - https://github.com/bpesquet/thejsway
@@ -54,7 +64,3 @@
 - https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
 - https://tutorialzine.com/2017/07/javascript-async-await-explained
 - https://auth0.com/blog/glossary-of-modern-javascript-concepts/
-
-# Books
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
-- [JS Way](https://github.com/bpesquet/thejsway)
