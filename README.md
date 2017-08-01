@@ -18,7 +18,8 @@
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - hoisting
 - [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
-- diff between normal and [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
+- [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
+- diff between normal and arrow function 
 - nested functions (function in function)
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) and [other link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - ES6 (Promises, modules, classes, template literals, destructuring)
