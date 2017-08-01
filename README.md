@@ -55,8 +55,9 @@
 - currying
 
 ## Books
-- [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
+- [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [JS Way](https://github.com/bpesquet/thejsway)
+- [Essential JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Some other links I recommend:
 - https://benmccormick.org/2017/07/19/ten-things-javascript/
