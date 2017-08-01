@@ -17,7 +17,7 @@
 - declaration vs definition
 - hoisting
 - this
-- diff between normal and arrow function
+- diff between normal and [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 - nested functions (function in function)
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 - ES6 (Promises, modules, classes, template literals, destructuring)
