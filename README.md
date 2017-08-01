@@ -15,6 +15,7 @@
 - var vs let vs const
 - [null vs undefined](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
 - declaration vs definition
+- [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - hoisting
 - this
 - diff between normal and [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
