@@ -61,6 +61,7 @@
 - [Essential JS Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
 
 ## Some other links I recommend:
-- https://benmccormick.org/2017/07/19/ten-things-javascript/
-- https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed
-- https://auth0.com/blog/glossary-of-modern-javascript-concepts/
+- [ten things js dev should learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
+- [javascript really is overtaking the world](https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed)
+- [Glossary of modern javascript concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
+- [Project guidelines](https://github.com/wearehive/project-guidelines)
