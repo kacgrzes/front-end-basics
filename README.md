@@ -8,7 +8,7 @@
 ## JS 
 - core language (if/else, error handling, etc)
 - standard lib (string and array manipulations)
-- functions ([IIFE](https://hackernoon.com/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18?source=userActivityShare-ec8f5955444-1497392894))
+- functions ([IIFE](https://hackernoon.com/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18?source=userActivityShare-ec8f5955444-1497392894), [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/))
 - [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - [callback](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 - scope
@@ -20,7 +20,7 @@
 - this
 - diff between normal and [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 - nested functions (function in function)
-- [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
+- [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) and [other link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - ES6 (Promises, modules, classes, template literals, destructuring)
 - HTTP, REST, JSON
 - async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ), standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), RxJS (?))
