@@ -22,7 +22,7 @@
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 - ES6 (Promises, modules, classes, template literals, destructuring)
 - HTTP, REST, JSON
-- async code (callback, Promise, event loop, standard API (setTimeout, fetch), async/await, RxJS (?))
+- async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), event loop, standard API (setTimeout, fetch), async/await, RxJS (?))
 - debugging and dev-tools
 - NodeJS tooling (webpack, grunt/gulp, eslint, babel)
 - modules types
@@ -37,11 +37,13 @@
 - state
 - immutability vs mutability
 - imperative vs declarative
+- first class functions
 - first order functions
 - higher order functions
 - composition
 - functor
-- 
+- partial application
+- currying
 
 # Some links I recommend:
 - https://benmccormick.org/2017/07/19/ten-things-javascript/
