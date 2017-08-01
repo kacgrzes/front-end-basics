@@ -22,7 +22,7 @@
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7)
 - ES6 (Promises, modules, classes, template literals, destructuring)
 - HTTP, REST, JSON
-- async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ), standard API (setTimeout, fetch), async/await, RxJS (?))
+- async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), [event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ), standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), RxJS (?))
 - debugging and dev-tools
 - NodeJS tooling (webpack, grunt/gulp, eslint, babel)
 - modules types
@@ -35,9 +35,10 @@
 ## Redux
 
 ## FP JS
-- https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b?source=userActivityShare-ec8f5955444-1501602034
-- Eric Elliotthttps://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c
-- recurency
+- [What is FP](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [How to get rid of if/for/switch](https://hackernoon.com/how-i-rediscovered-my-love-for-javascript-after-throwing-90-of-it-in-the-trash-f1baed075d1b)
+- [The rise and fall and rise of FP](https://medium.com/javascript-scene/the-rise-and-fall-and-rise-of-functional-programming-composable-software-c2d91b424c8c)
+- [recursion](https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea)
 - [purity](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-pure-function-d1c076bec976)
 - memoization
 - side effect
@@ -58,9 +59,5 @@
 
 ## Some other links I recommend:
 - https://benmccormick.org/2017/07/19/ten-things-javascript/
-- https://codeburst.io/understand-closures-in-javascript-d07852fa51e7
-- https://github.com/bpesquet/thejsway
 - https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed
-- https://codeburst.io/learn-and-understand-recursion-in-javascript-b588218e87ea
-- https://tutorialzine.com/2017/07/javascript-async-await-explained
 - https://auth0.com/blog/glossary-of-modern-javascript-concepts/
