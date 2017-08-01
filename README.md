@@ -48,7 +48,7 @@
 - first class functions
 - first order functions
 - higher order functions
-- composition
+- [composition](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-function-composition-20dfb109a1a0)
 - functor
 - partial application
 - currying
