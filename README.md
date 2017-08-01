@@ -9,7 +9,7 @@
 - core language (if/else, error handling, etc)
 - standard lib (string and array manipulations)
 - functions
-- [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0?source=userActivityShare-ec8f5955444-1499710417)
+- [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 - callback
 - scope
 - var vs let vs const
