@@ -3,7 +3,7 @@
 ## Some basic skills
 - communication ability
 - git or other version controll system
-- basic coding ability (imperative style)
+- basic coding ability (at least imperative style)
 
 ## JS 
 - core language (if/else, error handling, etc)
