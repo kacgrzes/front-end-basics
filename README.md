@@ -17,7 +17,7 @@
 - declaration vs definition
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - hoisting
-- [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
+- [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email) and [another one](https://zellwk.com/blog/this/)
 - [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 - diff between normal and arrow function 
 - nested functions (function in function)
