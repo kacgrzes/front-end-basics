@@ -37,6 +37,8 @@
 
 ### DAY 4 - asynchronous code
 - async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), ~~[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)~~, standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), ~~RxJS (?)~~)
+- [callback hell](callbackhell.com)
+- [escape from callback mountain](https://github.com/justsml/escape-from-callback-mountain)
 - HTTP, REST, JSON
 
 ### DAY 5 - ES6 and dev environment (general introduction / what is JS fatigue)
