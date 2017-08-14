@@ -77,6 +77,7 @@
 - ~~functor~~
 - ~~partial application~~
 - ~~currying~~
+- [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
 
 ## Books
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
