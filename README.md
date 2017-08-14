@@ -1,7 +1,7 @@
 # Front-end developer
 
 ## Some basic skills
-### DAY 0
+### DAY 0 (optional day for basic git / programming / js introduction)
 - communication ability
 - ~~git or other version controll system~~
 - **git basics (i.e. `clone`, `push`, `pull`, `merge`)**
@@ -13,7 +13,7 @@
 ## JS 
 - ~~core language (if/else, error handling, etc)~~
 
-### DAY 1 - variables
+### DAY 1 - scope and variables
 - `var` vs `let` vs `const`
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
 - declaration vs definition
@@ -27,27 +27,33 @@
 - [callback](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) and [other link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 
-### DAY 3 - context
+### DAY 3 - context (this and object prototypes)
 - [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email)
 - [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 - diff between normal and arrow function 
 - chaining
 - standard lib (string and array manipulations)
+- OOP (prototypes, class, how is JS different from classic OOP languages?) (optional)
 
-### DAY 4 - asynchronous
-- ES6 (Promises, modules, classes, template literals, destructuring)
-- async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), ~~[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)~~, standard API (setTimeout, fetch), ~~[async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained)~~, ~~RxJS (?)~~)
+### DAY 4 - asynchronous code
+- async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), ~~[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)~~, standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), ~~RxJS (?)~~)
 - HTTP, REST, JSON
 
-### DAY 5 - environment
+### DAY 5 - ES6 and dev environment (general introduction / what is JS fatigue)
+- ES6 (Promises, modules, classes, template literals, destructuring)
 - NodeJS tooling (webpack, grunt/gulp, eslint, babel)
 - debugging and dev-tools
-- ~~modules types~~
 - [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
+
+### Other topics
+- DOM
+- HTML5 API
+- events
 
 ## React
 
 ## Webpack + Babel
+- modules types
 
 ## Redux
 
