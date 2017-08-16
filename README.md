@@ -17,18 +17,18 @@
 - ~~core language (if/else, error handling, etc)~~
 
 ### DAY 1 - scope and variables
+- scope
 - `var` vs `let` vs `const`
+- hoisting
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
-- declaration vs definition
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
-- scope
-- hoisting
 
 ### DAY 2 - functions
 - functions ([IIFE](https://hackernoon.com/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18?source=userActivityShare-ec8f5955444-1497392894), [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/))
 - [callback](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) and [other link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- declaration vs definition
 
 ### DAY 3 - context (this and object prototypes)
 - [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email) and [another one](https://zellwk.com/blog/this/)
@@ -43,15 +43,30 @@
 - [callback hell](callbackhell.com)
 - [escape from callback mountain](https://github.com/justsml/escape-from-callback-mountain)
 - [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
+
+### DAY 5 - client-server communication
 - HTTP, REST, JSON
 
-### DAY 5 - ES6 and dev environment (general introduction / what is JS fatigue)
+### DAY 6 - ES6 and dev environment (general introduction / what is JS fatigue)
 - ES6 (Promises, modules, classes, template literals, destructuring)
-- NodeJS tooling (webpack, grunt/gulp, eslint, babel)
+
+### DAY 7
+- JS fatigue
+- NodeJS tooling (webpack, grunt/gulp, eslint, babel, bower)
+
+### DAY 8
 - debugging and dev-tools
+
+### DAY 9
+- eslint, jslint, standard
+- [Project guidelines](https://github.com/wearehive/project-guidelines)
 - [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
-### Other topics
+### DAY 10
+- tests
+
+### DAY 11 - browser env
+- env browser, cli, node, react-native, headless browser (chrome)
 - DOM
 - HTML5 API
 - events
@@ -92,4 +107,4 @@
 - [ten things js dev should learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 - [javascript really is overtaking the world](https://medium.com/fed-or-dead/javascript-really-is-overtaking-the-world-5b59b5af41ed)
 - [Glossary of modern javascript concepts](https://auth0.com/blog/glossary-of-modern-javascript-concepts/)
-- [Project guidelines](https://github.com/wearehive/project-guidelines)
+
