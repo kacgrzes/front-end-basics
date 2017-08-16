@@ -3,20 +3,19 @@
 ## Some basic skills
 ### DAY 0 (optional day for basic git / programming / js introduction)
 - communication ability
-- ~~git or other version controll system~~
-- **git basics (i.e. `clone`, `push`, `pull`, `merge`)**
-- basic coding ability (at least imperative style)
-- **control instructions (e.g. `if` / `else`)**
-- **loops (e.g. `for`, `while`)**
-- primitives and complex data
+- git basics (i.e. `clone`, `push`, `pull`, `merge`)
 - bash basics
 - SSH basics
 - GPG basics and setup
 
-## JS 
-- ~~core language (if/else, error handling, etc)~~
+### DAY 1 - basic coding
+- basic coding ability (at least imperative style)
+- primitives and complex data
+- control instructions (e.g. `if` / `else`)
+- loops (e.g. `for`, `while`)
+- error handling
 
-### DAY 1 - scope and variables
+### DAY 2 - scope and variables
 - scope
 - `var` vs `let` vs `const`
 - hoisting
@@ -24,52 +23,72 @@
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
-### DAY 2 - functions
+### DAY 3 - functions
 - functions ([IIFE](https://hackernoon.com/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18?source=userActivityShare-ec8f5955444-1497392894), [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/))
 - [callback](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 - [closures](https://codeburst.io/understand-closures-in-javascript-d07852fa51e7) and [other link](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
 - declaration vs definition
 
-### DAY 3 - context (this and object prototypes)
+### DAY 4 - context (this and object prototypes)
 - [this](https://rainsoft.io/gentle-explanation-of-this-in-javascript/?utm_source=javascriptweekly&utm_medium=email) and [another one](https://zellwk.com/blog/this/)
 - [arrow function](https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75)
 - diff between normal and arrow function 
 - chaining
-- standard lib (string and array manipulations)
-- OOP (prototypes, class, how is JS different from classic OOP languages?) (optional)
 
-### DAY 4 - asynchronous code
+### DAY 5 - standard lib
+- http://devdocs.io/
+- https://developer.mozilla.org/en-US/
+- string
+- array
+- object
+
+### DAY 6 - OOP
+- prototypes
+- class
+- how is JS different from classic OOP languages?) (optional)
+
+### DAY 7 - asynchronous code
 - async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), ~~[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)~~, standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), ~~RxJS (?)~~)
 - [callback hell](callbackhell.com)
 - [escape from callback mountain](https://github.com/justsml/escape-from-callback-mountain)
 - [Async/await will make your code simpler](https://blog.patricktriest.com/what-is-async-await-why-should-you-care/)
 
-### DAY 5 - client-server communication
+### DAY 8 - client-server communication
+- work with back-end
 - HTTP, REST, JSON
 
-### DAY 6 - ES6 and dev environment (general introduction / what is JS fatigue)
+### DAY 9 - ES6 and dev environment (general introduction / what is JS fatigue)
 - ES6 (Promises, modules, classes, template literals, destructuring)
 
-### DAY 7
+### DAY 10
 - JS fatigue
 - NodeJS tooling (webpack, grunt/gulp, eslint, babel, bower)
 
-### DAY 8
+### DAY 11
 - debugging and dev-tools
 
-### DAY 9
+### DAY 12
 - eslint, jslint, standard
 - [Project guidelines](https://github.com/wearehive/project-guidelines)
 - [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
-### DAY 10
-- tests
+### DAY 13
+- work with tester
+- jira / QA / AC
+- tests kinds
+- [js unit testing](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
+- js end 2 end testing
 
-### DAY 11 - browser env
+### DAY 14 - browser env
 - env browser, cli, node, react-native, headless browser (chrome)
 - DOM
 - HTML5 API
 - events
+
+### DAY 15 - prototyping and design
+- work with UX / UI designers
+- mockup tools 
+- invision / zeplin / photoshop (optional
 
 ## React
 
