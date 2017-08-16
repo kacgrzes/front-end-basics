@@ -9,6 +9,9 @@
 - **control instructions (e.g. `if` / `else`)**
 - **loops (e.g. `for`, `while`)**
 - primitives and complex data
+- bash basics
+- SSH basics
+- GPG basics and setup
 
 ## JS 
 - ~~core language (if/else, error handling, etc)~~
