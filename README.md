@@ -9,9 +9,10 @@
 - GPG basics and setup
 
 ### DAY 1 - basic coding
-- basic coding ability (at least imperative style)
+- basic coding ability (at least [imperative style](https://www.wikiwand.com/en/Imperative_programming))
+- expression, assignment, arithmetic operators, function evaluation
 - primitives and complex data
-- control instructions (e.g. `if` / `else`)
+- control instructions (e.g. `if` / `else` / `switch`)
 - loops (e.g. `for`, `while`)
 - error handling
 
