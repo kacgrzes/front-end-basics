@@ -3,7 +3,7 @@
 ## Some basic skills
 ### DAY 0 (optional day for basic git / programming / js introduction)
 - communication ability
-- git basics (i.e. `clone`, `push`, `pull`, `merge`)
+- git basics (i.e. `clone`, `push`, `pull`, `merge`, `diff`)
 - [linux commands](https://www.smashingmagazine.com/2012/01/introduction-to-linux-commands/)
 - SSH basics
 - GPG basics and setup
