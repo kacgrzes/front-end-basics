@@ -17,7 +17,7 @@
 - error handling
 
 ### DAY 2 - scope and variables
-- scope
+- [scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
 - `var` vs `let` vs `const`
 - hoisting
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
