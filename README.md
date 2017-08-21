@@ -18,8 +18,8 @@
 
 ### DAY 2 - scope and variables
 - [scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
-- `var` vs `let` vs `const`
-- hoisting
+- [`var` vs `let` vs `const`](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
+- [hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
 - [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
