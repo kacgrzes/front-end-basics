@@ -15,6 +15,7 @@
 - control instructions (e.g. `if` / `else` / `switch`)
 - loops (e.g. `for`, `while`)
 - error handling
+- [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
 
 ### DAY 2 - scope and variables
 - [scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
@@ -22,7 +23,7 @@
 - [hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
 - [declaration vs initialization vs assignment](https://www.sitepoint.com/how-to-declare-variables-javascript/)
-- [value vs reference](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- [RegExp basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
 ### DAY 3 - functions
 - functions ([IIFE](https://hackernoon.com/javascript-what-the-heck-is-an-immediately-invoked-function-expression-a0ed32b66c18?source=userActivityShare-ec8f5955444-1497392894), [Function Declarations vs. Function Expressions](https://javascriptweblog.wordpress.com/2010/07/06/function-declarations-vs-function-expressions/))
