@@ -64,14 +64,14 @@
 - chaining
 
 **Katas**
-https://www.codewars.com/kata/regular-ball-super-ball
-https://www.codewars.com/kata/finish-guess-the-number-game
-https://www.codewars.com/kata/classy-extentions
-https://www.codewars.com/kata/two-fighters-one-winner
-https://www.codewars.com/kata/simple-substitution-cipher-helper
-https://www.codewars.com/kata/hex-class
-https://www.codewars.com/kata/kama-sutra-cipher-helper
-https://www.codewars.com/kata/hall-of-fame
+- https://www.codewars.com/kata/regular-ball-super-ball
+- https://www.codewars.com/kata/finish-guess-the-number-game
+- https://www.codewars.com/kata/classy-extentions
+- https://www.codewars.com/kata/two-fighters-one-winner
+- https://www.codewars.com/kata/simple-substitution-cipher-helper
+- https://www.codewars.com/kata/hex-class
+- https://www.codewars.com/kata/kama-sutra-cipher-helper
+- https://www.codewars.com/kata/hall-of-fame
 
 ### DAY 5 - standard lib
 - http://devdocs.io/
