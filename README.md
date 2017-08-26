@@ -31,7 +31,7 @@
 - https://www.codewars.com/kata/did-someone-say-cake
 
 ### DAY 2 - scope and variables
-- [scope](https://scotch.io/tutorials/understanding-scope-in-javascript)
+- [scope](https://scotch.io/tutorials/understanding-scope-in-javascript) [scope](https://developer.telerik.com/topics/web-development/understanding-scope-in-javascript/)
 - [`var` vs `let` vs `const`](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75)
 - [hoisting](https://scotch.io/tutorials/understanding-hoisting-in-javascript)
 - [`null` vs `undefined`](https://codeburst.io/javascript-whats-the-difference-between-null-undefined-37793b5bfce6)
