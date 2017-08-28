@@ -91,6 +91,11 @@
 - class - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes), [this](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9) and [that](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 - how is JS different from classic OOP languages?) (optional)
 
+**Katas**
+- https://www.codewars.com/kata/broken-counter/javascript (trivial)
+- https://www.codewars.com/kata/ninja-vs-samurai-strike/javascript (trivial)
+- https://www.codewars.com/kata/strings-strings-strings-easy/javascript
+
 ### DAY 7 - asynchronous code
 - async code (callback, [Promise](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261), ~~[event loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)~~, standard API (setTimeout, fetch), [async/await](https://tutorialzine.com/2017/07/javascript-async-await-explained), ~~RxJS (?)~~)
 - [callback hell](callbackhell.com)
