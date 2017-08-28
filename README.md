@@ -74,11 +74,17 @@
 - https://www.codewars.com/kata/hall-of-fame
 
 ### DAY 5 - standard lib
-- http://devdocs.io/
-- https://developer.mozilla.org/en-US/
-- string
-- array
-- object
+- [devdocs](http://devdocs.io/)
+- [mozilla developer](https://developer.mozilla.org/en-US/)
+- [mutable array methods](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/prototype#Mutator_methods)
+- [reminder: reference vs value](https://codeburst.io/explaining-value-vs-reference-in-javascript-647a975e12a0)
+- [Immutable JS using ES6](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/)
+
+**Katas**
+- https://www.codewars.com/collections/strings-28
+- https://www.codewars.com/collections/array-methods
+- http://www.codewars.com/kata/coding-meetup-number-1-higher-order-functions-series-count-the-number-of-javascript-developers-coming-from-europe
+- https://www.codewars.com/collections/object-1
 
 ### DAY 6 - OOP
 - prototypes - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
