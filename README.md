@@ -81,8 +81,8 @@
 - object
 
 ### DAY 6 - OOP
-- prototypes
-- class
+- prototypes - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- class - [this](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes) and [this](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 - how is JS different from classic OOP languages?) (optional)
 
 ### DAY 7 - asynchronous code
