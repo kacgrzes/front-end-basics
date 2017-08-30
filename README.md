@@ -105,7 +105,10 @@
 
 ### DAY 8 - client-server communication
 - work with back-end
-- HTTP, REST, JSON
+- JSON, REST, [HTTP](http://www.restapitutorial.com/lessons/httpmethods.html)
+
+**Resources**
+- [GitHub API](https://developer.github.com/v3/)
 
 ### DAY 9 - ES6 and dev environment (general introduction / what is JS fatigue)
 - ES6 (Promises, modules, classes, template literals, destructuring)
