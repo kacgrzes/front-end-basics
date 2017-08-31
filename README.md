@@ -105,10 +105,28 @@
 
 ### DAY 8 - client-server communication
 - work with back-end
-- JSON, REST, [HTTP](http://www.restapitutorial.com/lessons/httpmethods.html)
+- JSON, REST, [HTTP](http://www.restapitutorial.com/lessons/httpmethods.html), [JSON API](http://jsonapi.org/)
 
 **Resources**
 - [GitHub API](https://developer.github.com/v3/)
+
+**Task**
+Fetch repos that belong to DeSmart, then:
+
+1.
+	- sort them by `stargazers_count` (descending)
+	- print the results in the form: <a href="{html_url}" target="_blank">{name}</a>, stargazers: {stargazers_count}
+
+2.
+	- filter out repos that don't have stargazers
+	- sort the results by `updated_at` (descending)
+	- print all used languages in the form: "PHP: 5, JavaScript: 7, (none): 3"
+
+Rules:
+- small, clean functions
+- composition
+- reuse functions
+- closures (nice to have)
 
 ### DAY 9 - ES6 and dev environment (general introduction / what is JS fatigue)
 - ES6 (Promises, modules, classes, template literals, destructuring)
