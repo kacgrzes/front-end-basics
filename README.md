@@ -163,6 +163,12 @@ Rules:
 
 ## React
 
+### Lifecycle
+- http://busypeoples.github.io/post/react-component-lifecycle/
+- https://facebook.github.io/react/docs/state-and-lifecycle.html
+- https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df
+- https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
+
 ## Webpack + Babel
 - modules types
 
