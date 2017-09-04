@@ -128,12 +128,12 @@ Rules:
 - reuse functions
 - closures (nice to have)
 
-### DAY 10 - prototyping and design
+### DAY 9 - prototyping and design
 - work with UX / UI designers
 - mockup tools 
 - invision / zeplin / photoshop (optional)
 
-### DAY 11
+### DAY 10
 *JS FATIGUE*
 - [how it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
 - [how it feels to learn JS in 2017](https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe)
@@ -150,17 +150,17 @@ Rules:
 - ES6 modules
 - NodeJS tooling (webpack, grunt/gulp, babel, bower)
 
-### DAY 12 - Debugging
+### DAY 11 - Debugging
 - debugging and dev-tools
 
-### DAY 13 - Testing
+### DAY 12 - Testing
 - work with tester
 - jira / QA / AC
 - tests kinds
 - [js unit testing](https://www.smashingmagazine.com/2012/06/introduction-to-javascript-unit-testing/)
 - js end 2 end testing
 
-### DAY 14 - browser env
+### DAY 13 - browser env
 - env browser, cli, node, react-native, headless browser (chrome)
 - DOM
 - HTML5 API
