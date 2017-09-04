@@ -128,22 +128,32 @@ Rules:
 - reuse functions
 - closures (nice to have)
 
-### DAY 9 - ES6 and dev environment (general introduction / what is JS fatigue)
-- ES6 (Promises, modules, classes, template literals, destructuring)
-
-### DAY 10
-- JS fatigue
-- NodeJS tooling (webpack, grunt/gulp, eslint, babel, bower)
+### DAY 10 - prototyping and design
+- work with UX / UI designers
+- mockup tools 
+- invision / zeplin / photoshop (optional)
 
 ### DAY 11
-- debugging and dev-tools
+*JS FATIGUE*
+- [how it feels to learn JS in 2016](https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f)
+- [how it feels to learn JS in 2017](https://medium.com/front-end-hacking/how-it-feels-to-learn-javascript-in-2017-a934b801fbe)
+- [javascript-fatigue](https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4)
+- [wtf is es6 es8 es 2017 ecmascript](https://codeburst.io/javascript-wtf-is-es6-es8-es-2017-ecmascript-dca859e4821c)
+- [why-im-thankful-for-js-fatigue](https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f)
 
-### DAY 12
-- eslint, jslint, standard
+*CLEAN CODE*
+- [jslint](http://www.jslint.com/), [jshint](http://jshint.com/), [eslint](https://eslint.org/), [standard](https://standardjs.com/)
 - [Project guidelines](https://github.com/wearehive/project-guidelines)
 - [clean code JS](https://github.com/ryanmcdermott/clean-code-javascript)
 
-### DAY 13
+*TOOLING AND MODULES*
+- ES6 modules
+- NodeJS tooling (webpack, grunt/gulp, babel, bower)
+
+### DAY 12 - Debugging
+- debugging and dev-tools
+
+### DAY 13 - Testing
 - work with tester
 - jira / QA / AC
 - tests kinds
@@ -155,11 +165,6 @@ Rules:
 - DOM
 - HTML5 API
 - events
-
-### DAY 15 - prototyping and design
-- work with UX / UI designers
-- mockup tools 
-- invision / zeplin / photoshop (optional
 
 ## React
 
