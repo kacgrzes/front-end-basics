@@ -174,6 +174,9 @@ Rules:
 - https://medium.com/react-ecosystem/react-components-lifecycle-ce09239010df
 - https://engineering.musefind.com/react-lifecycle-methods-how-and-when-to-use-them-2111a1b692b1
 
+### Data transfer
+- [react-js-pass-data-from-components](https://codeburst.io/react-js-pass-data-from-components-8965d7892ca2)
+
 ## Webpack + Babel
 - modules types
 
