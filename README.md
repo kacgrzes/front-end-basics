@@ -201,6 +201,8 @@ Rules:
 - ~~partial application~~
 - ~~currying~~
 - [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS)
+- [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide)
 
 ## Books
 - [You Dont Know JS](https://github.com/getify/You-Dont-Know-JS)
